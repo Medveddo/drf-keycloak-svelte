@@ -1,0 +1,4 @@
+django
+pyjwt
+python-jose[cryptography]
+python-keycloak
